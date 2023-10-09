@@ -8,3 +8,6 @@ mod imp_glam;
 
 #[cfg(feature = "nalgebra")]
 mod imp_nalgebra;
+
+#[cfg(feature = "ultraviolet")]
+mod imp_ultraviolet;
