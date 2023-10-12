@@ -2,7 +2,7 @@
 name = "crevice-derive"
 description = "Derive crate for the 'crevice' crate"
 version = "0.10.0"
-edition = "2018"
+edition = "2021"
 authors = ["Lucien Greathouse <me@lpghatguy.com>"]
 documentation = "https://docs.rs/crevice-derive"
 homepage = "https://github.com/LPGhatguy/crevice"
